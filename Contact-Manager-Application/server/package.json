@@ -8,7 +8,7 @@
     "dev": "nodemon server.js",
     "build": "npm install"
   },
-  "author": "Kishanlal Choudhary",
+  "author": "Atamjeet Singh",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
